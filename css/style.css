@@ -1,0 +1,27 @@
+body {
+    background-color: lightgrey;
+  }
+  
+  h1 {
+    color: rgb(68, 151, 43);
+    margin-left: 20px;
+  }
+  h2 {
+    color: yellow;
+    margin-left: 20px;
+  }
+  h3 {
+    color:red;
+    margin-left: 20px;
+  }
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p{
+  text-align: justify;
+}
